@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Kamis_10210_NurulArifin_TugasSQLite'
